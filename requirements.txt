@@ -1,0 +1,7 @@
+solders
+base58
+PyNaCl
+aiohttp
+aiohttp-socks
+colorama
+inquirer
